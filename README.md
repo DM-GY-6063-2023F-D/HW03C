@@ -14,6 +14,6 @@ I also wanted my sketch to have parameters so I can control the number of points
 
 ![](./imgs/HW03C_01.jpg)
 
-I can easily implement this parametrized version by using a set of nested ```for()``` loops. The outer loop goes from $0$ to $P \ over n$ (which is the total number of groups in the drawing), and the inner loop iterates from $0$ to $n - 1$ (which is the number of lines in a group):
+I can easily implement this parametrized version by using a set of nested ```for()``` loops. The outer loop goes from $0$ to $\frac{P}{n}$ (which is the total number of groups in the drawing), and the inner loop iterates from $0$ to $n - 1$ (which is the number of lines in a group):
 
 ![](./imgs/HW03C_02.jpg)
