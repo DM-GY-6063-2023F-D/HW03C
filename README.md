@@ -10,7 +10,7 @@ My interpretation was that each point should have at least one line, and that th
 
 ![](./imgs/HW03C_00.jpg)
 
-I also wanted my sketch to have parameters so I can control the number of points and the size of the groups. By defining ```P``` to be the total number of points (at least 50) and ```n``` to be the number of points per groups, or the number of neighbors, I can derive the following equations for the total number of lines:
+I also wanted my sketch to have parameters so I can control the number of points and the size of the groups. By defining $P$ to be the total number of points (at least 50) and $n$ to be the number of points per groups, or the number of neighbors, I can derive the following equations for the total number of lines:
 
 ![](./imgs/HW03C_01.jpg)
 
